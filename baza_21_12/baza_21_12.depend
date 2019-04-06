@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1514928358 source:c:\users\grzegorz\desktop\cpp\baza_21_12\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<fstream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1512948420 source:c:\users\grzegorz\desktop\cpp\new_delete\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1512948677 source:c:\users\grzegorz\desktop\tablica c z sortowaniem\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

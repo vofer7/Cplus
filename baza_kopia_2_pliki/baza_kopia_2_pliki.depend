@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1514929985 source:c:\users\grzegorz\desktop\cpp\baza_kopia_2_pliki\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<fstream>
+	"fun.cpp"
+
+1514930003 c:\users\grzegorz\desktop\cpp\baza_kopia_2_pliki\fun.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<fstream>
+	"head.h"
+
+1514930022 c:\users\grzegorz\desktop\cpp\baza_kopia_2_pliki\head.h
+

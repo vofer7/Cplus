@@ -1,0 +1,16 @@
+***********************
+Nazwa: Asus
+Producent : asus
+Model : x100
+Kategoria : laptop
+Liczba sztuk : 42
+Cena : 1200
+Data dostawy: 10/20/2017
+***********************
+Nazwa: Kupa
+Producent : sadasd
+Model : x211
+Kategoria : nic
+Liczba sztuk : 0
+Cena : 1
+Data dostawy: 
